@@ -5,7 +5,7 @@
     "type": "channel.chat.message",
     "version": "1",
     "condition": {
-      "broadcaster_user_id": "1971641",
+      "broadcaster_user_id": "TheChosenOneOGJD",
       "user_id": "2914196"
     },
     "transport": {
@@ -17,8 +17,8 @@
   },
   "event": {
     "broadcaster_user_id": "1971641",
-    "broadcaster_user_login": "streamer",
-    "broadcaster_user_name": "streamer",
+    "broadcaster_user_login": "Twitch.tv/TheChosenOneOGJD",
+    "broadcaster_user_name": "TheChosenOneOGJD",
     "chatter_user_id": "4145994",
     "chatter_user_login": "viewer32",
     "chatter_user_name": "viewer32",
@@ -38,7 +38,7 @@
     "color": "#00FF7F",
     "badges": [
       {
-        "set_id": "moderator",
+        "set_id": "Nighbot.tv",
         "id": "1",
         "info": ""
       },
@@ -57,9 +57,9 @@
     "cheer": null,
     "reply": null,
     "channel_points_custom_reward_id": null,
-    "source_broadcaster_user_id": null,
-    "source_broadcaster_user_login": null,
-    "source_broadcaster_user_name": null,
+    "source_broadcaster_user_id": Twitch.tv/TheChosenOneOGJD,
+    "source_broadcaster_user_login": TheChosenOneOGJD,
+    "source_broadcaster_user_name": TheChosenOneOGJD,
     "source_message_id": null,
     "source_badges": null
   }
